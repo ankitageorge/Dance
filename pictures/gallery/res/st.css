@@ -1,0 +1,78 @@
+body {
+padding: 5px;
+background-color: #FFF;
+
+}
+
+div.pcp {
+text-align:center;
+border:0;
+background-color:#FFF;
+color:#A9FFFF;
+padding:15px; 
+margin:15px;
+font-family: Tahoma, sans-serif;
+font-weight: normal;
+font-size: 14px;
+text-decoration: none;
+}
+
+a.pht {
+	float: left;
+	width: 270px;
+	height: 165px;
+	text-align: center;
+	border: 1px solid #004040;
+	background-color: #FFF;
+	color: #FFFFFF;
+	padding: 5px;
+	margin: 5px;
+	font-family: Tahoma, sans-serif;
+	font-weight: normal;
+	font-size: 10px;
+	text-decoration: none;
+}
+
+
+
+
+span.hdr2 {
+border: 1px solid #000000;
+color: #000000;
+background-color: #C1CBCB;
+padding:5px;
+margin:0px;
+font-size: 10px;
+vertical-align: middle;
+}
+
+.emln {
+	text-align: center;
+}
+
+
+
+a.btn {
+	float: none;
+	width: 100px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: 0px 1px 1px 1px;
+	text-align: center;
+	background-color: #FFF;
+	color: #000000;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 8px;
+	margin: 0px 1px 1px 1px;
+	font-family: Tahoma, sans-serif;
+	font-weight: normal;
+	font-size: 10px;
+	text-decoration: none;
+	padding-top: 8px;
+}
+
+a.btn:visited {
+	color: #000;
+	text-decoration: none;
+}
